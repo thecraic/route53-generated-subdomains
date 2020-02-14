@@ -1,0 +1,17 @@
+{
+  "name": "route53-hashed-subdomains",
+  "version": "1.0.0",
+  "description": "Demonstrates how to create hashed subdomains using Amazon Route 53 with the Javascript SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thecraic@amazon.com",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.618.0",
+    "crypto-js": "^4.0.0",
+    "short-hash": "^1.0.0",
+    "shortid": "^2.2.15"
+  }
+}
