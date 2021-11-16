@@ -9,7 +9,7 @@
   "author": "thecraic@amazon.com",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.618.0",
+    "aws-sdk": "^2.814.0",
     "crypto-js": "^4.0.0",
     "short-hash": "^1.0.0",
     "shortid": "^2.2.15"
